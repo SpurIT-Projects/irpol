@@ -1,0 +1,65 @@
+{
+  "full_name": "Частное медицинское унитарное предприятие «ИРПОЛ»",
+  "short_name": "УП «ИРПОЛ»",
+  "UNP": "190438613",
+  "address": {
+    "postal_code": "220100",
+    "country": "Республика Беларусь",
+    "city": "г. Минск",
+    "street": "ул. Максима Богдановича",
+    "building": "78",
+    "office": "пом. 23н",
+    "full_address": "220100, Республика Беларусь, г. Минск, ул. Максима Богдановича, 78, пом. 23н"
+  },
+  "contacts": {
+    "phones": [
+      "+375 (17) 334-41-91",
+      "+375 (29) 339-98-91"
+    ],
+    "emails": [
+      "info@irpol.by"
+    ],
+    "website": "http://irpol.by"
+  },
+  "business_type": "Стоматологический центр",
+  "services": [
+    "Терапия",
+    "Хирургия",
+    "Ортопедия",
+    "Ортодонтия",
+    "Гигиена полости рта",
+    "Имплантация",
+    "Отбеливание зубов",
+    "Детская стоматология"
+  ],
+  "years_in_business": "С 2010 года",
+  "working_hours": {
+    "weekdays": "Пн-Пт: 9:00 - 21:00",
+    "saturday": "Сб: 9:00 - 18:00",
+    "sunday": "Вс: Выходной"
+  },
+  "coordinates": {
+    "latitude": "53.928127",
+    "longitude": "27.574416"
+  },
+  "verified_sources": [
+    {
+      "source": "kartoteka.by",
+      "url": "https://kartoteka.by/unp-190438613",
+      "verified_date": "2025-10-23",
+      "description": "Официальная проверка УНП и реквизитов"
+    },
+    {
+      "source": "checko.ru",
+      "url": "https://checko.ru/by/company/up-irpol-190438613",
+      "verified_date": "2025-10-23",
+      "description": "Подтверждение юридических данных"
+    },
+    {
+      "source": "103.by",
+      "url": "https://irpol.103.by/",
+      "verified_date": "2025-10-23",
+      "description": "Медицинский каталог с отзывами"
+    }
+  ]
+}
